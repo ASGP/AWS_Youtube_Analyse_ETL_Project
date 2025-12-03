@@ -48,8 +48,10 @@ It demonstrates real-world cloud data engineering concepts such as:
 
 
 # Queries and Results
+1) #### Average Data by country
+   <img width="1305" height="443" alt="image" src="https://github.com/user-attachments/assets/c2ad6369-2375-445e-9ac6-df8ee9c1536b" />
 
-1) #### Highest Like/View Ratio 
+3) #### Highest Like/View Ratio 
 
 | video_id | title | channel_title | views | likes | like_rate | country |
 |----------|-------|---------------|-------|-------|-----------|---------|
@@ -68,8 +70,26 @@ It demonstrates real-world cloud data engineering concepts such as:
 | Fp1MOsZKySQ | ROAST YOURSELF CHALLENGE - KILLADAMENTE | Killadamente | 288918 | 94382 | 0.326674004 | MX |
 | c94AB4PGucY | PLANETE FOOT | LA COUPE DE KURZAWA... ! | Pauleta | 194343 | 62687 | 0.322558569 | FR |
 
-2) #### Most trending catergories
+3) #### Most trending catergories
    <img width="997" height="516" alt="image" src="https://github.com/user-attachments/assets/df45821f-8903-42ef-b6de-dd5f8f40451e" />
 
-3) Catergory wise engagements
+4) #### Catergory wise engagements
    <img width="1247" height="541" alt="image" src="https://github.com/user-attachments/assets/594f460f-63f0-4abd-b066-14eb5ead1109" />
+   
+5) #### Channels with highest views
+   <img width="1288" height="530" alt="image" src="https://github.com/user-attachments/assets/d1039eed-349e-48ea-ab70-e83b4cfaf2e5" />
+
+   
+6) #### Trending category by country
+   <img width="1181" height="415" alt="image" src="https://github.com/user-attachments/assets/af5cccd9-afd7-4741-b241-80d4a6b683e2" />
+
+7) #### Channel and respective category with highest engagement with channel
+   <img width="1283" height="365" alt="image" src="https://github.com/user-attachments/assets/24a0ec92-73cb-4356-b6e9-5ae96f5e4db7" />
+   
+8) #### New Trending videos
+   <img width="1240" height="506" alt="image" src="https://github.com/user-attachments/assets/14e8e189-a96f-4caf-9cfc-b9ffa622b8e6" />
+   
+9) #### Low view but high engagement(like)
+    <img width="957" height="515" alt="image" src="https://github.com/user-attachments/assets/193e6de4-114d-48c6-848b-e7bdb2369a2b" />
+
+
