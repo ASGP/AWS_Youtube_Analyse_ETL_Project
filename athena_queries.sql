@@ -12,3 +12,9 @@ WHERE views > 100000
 ORDER BY like_rate DESC
 LIMIT 20;
 
+--2 Most Trending catergories
+SELECT category_name, SUM(views) AS total_views
+FROM processed
+GROUP BY category_name
+ORDER BY total_views DESC;
+
