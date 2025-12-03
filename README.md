@@ -49,7 +49,7 @@ It demonstrates real-world cloud data engineering concepts such as:
 
 # Queries and Results
 
-1)
+1) #### Highest Like/View Ratio 
 
 | video_id | title | channel_title | views | likes | like_rate | country |
 |----------|-------|---------------|-------|-------|-----------|---------|
@@ -68,4 +68,6 @@ It demonstrates real-world cloud data engineering concepts such as:
 | Fp1MOsZKySQ | ROAST YOURSELF CHALLENGE - KILLADAMENTE | Killadamente | 288918 | 94382 | 0.326674004 | MX |
 | c94AB4PGucY | PLANETE FOOT | LA COUPE DE KURZAWA... ! | Pauleta | 194343 | 62687 | 0.322558569 | FR |
 
+2) #### Most trending catergories
+   <img width="997" height="516" alt="image" src="https://github.com/user-attachments/assets/df45821f-8903-42ef-b6de-dd5f8f40451e" />
 
