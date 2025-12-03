@@ -71,3 +71,5 @@ It demonstrates real-world cloud data engineering concepts such as:
 2) #### Most trending catergories
    <img width="997" height="516" alt="image" src="https://github.com/user-attachments/assets/df45821f-8903-42ef-b6de-dd5f8f40451e" />
 
+3) Catergory wise engagements
+   <img width="1247" height="541" alt="image" src="https://github.com/user-attachments/assets/594f460f-63f0-4abd-b066-14eb5ead1109" />
