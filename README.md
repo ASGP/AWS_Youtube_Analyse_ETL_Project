@@ -13,6 +13,12 @@ It demonstrates real-world cloud data engineering concepts such as:
 - Building visual analytics (Grafana / Athena dashboards)
 - IAM security, permissions, and serverless architecture
 
+### Architecture
+<img width="1067" height="694" alt="image" src="https://github.com/user-attachments/assets/29c0eeed-aa91-49a3-b995-9fc99776fe2d" />
+
+### Flow 
+*User Upload → S3 Raw → Lambda → S3 Processed → Glue Crawler → Glue Catalog → Athena*
+
 ### Technologies Used
 
 #### AWS Services
